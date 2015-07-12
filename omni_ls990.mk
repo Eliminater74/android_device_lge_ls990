@@ -1,4 +1,4 @@
-$(call inherit-product, device/lge/ls990/full_ls990.mk)
+#$(call inherit-product, device/lge/ls990/full_ls990.mk)
 
 # Inherit some common CM stuff.
 #$(call inherit-product, vendor/cm/config/common_full_phone.mk)
